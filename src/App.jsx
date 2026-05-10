@@ -171,7 +171,6 @@ export default function App() {
     );
   };
 
-  /* GENERATE TIMETABLE */
 
   const generateTimetable = () => {
 
@@ -281,7 +280,7 @@ export default function App() {
             Login
           </button>
 
-          {/* ERROR */}
+       
 
           {
             error && (
